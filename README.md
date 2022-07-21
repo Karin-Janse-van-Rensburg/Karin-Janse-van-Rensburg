@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karin-Janse-van-Rensburg
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning AWS Machine Laarning
+- 🌱 I’m currently learning AWS Machine Learning
 - 💞️ I’m looking to collaborate on any projects related to AWS Machine Learning
 - 📫 How to reach me : karinjansevr@gmail.com
 
